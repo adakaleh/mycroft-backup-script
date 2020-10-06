@@ -1,6 +1,6 @@
 # MycroftProject.com backup script
 
-Script for backing up all search plugins on https://mycroftproject.com/
+Script for backing up all (around 26000) search plugins on https://mycroftproject.com/.
 
 Just run `./mycroft.sh`
 

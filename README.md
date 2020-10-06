@@ -1,8 +1,10 @@
-# MycroftProject.com backup script
+# Mycroft Project backup script
 
-Script for backing up all (around 26000) search plugins on https://mycroftproject.com/.
+Script for backing up all (around 26000) search plugins on https://mycroftproject.com/
 
 Just run `./mycroft.sh`
+
+Or, rather, download the archive (made on 2020-08-23) from https://archive.org/details/mycroft-project-backup
 
 ## Some links
 
